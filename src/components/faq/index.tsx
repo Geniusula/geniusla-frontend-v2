@@ -11,11 +11,11 @@ export default function Faq() {
   }, []);
 
   return (
-    <div className="mt-16 overflow-x-hidden pb-8 md:mx-16 mx-4 flex-col items-center">
+    <div className="mt-16 overflow-x-hidden pb-8 md:px-16 px-4 flex-col items-center">
       <div className="flex flex-col md:flex-row justify-between">
         <div
           data-aos="fade-right"
-          className="md:border-r-4 border-light-primary flex flex-col gap-3 md:pr-8"
+          className="md:border-r-4 w-full border-light-primary flex flex-col gap-3 md:pr-8"
         >
           <h2 className="font-bold text-2xl text-primary">Geniusla nedir?</h2>
           <p className="text-primary font-medium text-base">
@@ -28,7 +28,7 @@ export default function Faq() {
 
         <div
           data-aos="fade-left"
-          className="md:mt-36 mt-16 flex flex-col gap-3 md:pl-8"
+          className="md:mt-36 w-full mt-16 flex flex-col gap-3 md:pl-8"
         >
           <h2 className="font-bold text-2xl text-primary">Neden “Geniusla”?</h2>
           <p className="text-primary font-medium text-base">

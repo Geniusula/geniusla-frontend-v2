@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="https://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://geniusla.com/</loc>
+      <xhtml:link
+        rel="alternate"
+        hreflang="tr"
+        href="https://geniusla.com"
+     />
+     <lastmod>2023-01-07</lastmod>
+     <changefreq>monthly</changefreq>
+     <priority>1.0</priority>
+  </url>
+</urlset>
