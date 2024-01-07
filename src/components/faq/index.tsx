@@ -17,9 +17,9 @@ export default function Faq() {
           data-aos="fade-right"
           className="md:border-r-4 w-full border-light-primary flex flex-col gap-3 md:pr-8"
         >
-          <h2 className="font-bold text-2xl text-primary">Geniusla nedir?</h2>
+          <h2 className="font-bold text-2xl text-primary">Geniusula nedir?</h2>
           <p className="text-primary font-medium text-base">
-            Geniusla bir Discord sunucusudur. Ancak onu “normal” bir discord
+            Geniusula bir Discord sunucusudur. Ancak onu “normal” bir discord
             sunucusundan ayrı yapan şey halkı ve kurucusudur. Bir çok şey
             öğrenebileceğiniz, bir çok kafanıza uyan kişi ile tanışabileceğiniz
             ve en basitinden dışlanmayacağınız bir topluluk.
@@ -30,11 +30,11 @@ export default function Faq() {
           data-aos="fade-left"
           className="md:mt-36 w-full mt-16 flex flex-col gap-3 md:pl-8"
         >
-          <h2 className="font-bold text-2xl text-primary">Neden “Geniusla”?</h2>
+          <h2 className="font-bold text-2xl text-primary">Neden “Geniusula”?</h2>
           <p className="text-primary font-medium text-base">
             Sunucunun ismini “peninsula” olan ingilizce kelimeden geliyor.
             Peninsula ingilizce’de yarım ada, yanii üç tarafı su ile çevrili
-            kara parçasına denir. Geniusla ise üç tarafı aptallar ile çevrili
+            kara parçasına denir. Geniusula ise üç tarafı aptallar ile çevrili
             deha parçasıdır.
           </p>
         </div>
